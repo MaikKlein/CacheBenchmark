@@ -1,0 +1,4 @@
+name "cachebench"
+description "A minimal D application."
+copyright "Copyright © 2016, maik"
+authors "maik"
